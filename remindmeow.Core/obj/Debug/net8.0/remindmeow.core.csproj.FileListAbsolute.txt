@@ -1,0 +1,13 @@
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\bin\Debug\net8.0\remindmeow.Core.deps.json
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\bin\Debug\net8.0\remindmeow.Core.dll
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\bin\Debug\net8.0\remindmeow.Core.pdb
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\remindmeow.Core.csproj.AssemblyReference.cache
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\remindmeow.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\remindmeow.Core.AssemblyInfoInputs.cache
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\remindmeow.Core.AssemblyInfo.cs
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\remindmeow.Core.csproj.CoreCompileInputs.cache
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\remindmeow.Core.sourcelink.json
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\remindmeow.Core.dll
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\refint\remindmeow.Core.dll
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\remindmeow.Core.pdb
+c:\Users\prave\Repos\remindmeow\remindmeow.Core\obj\Debug\net8.0\ref\remindmeow.Core.dll

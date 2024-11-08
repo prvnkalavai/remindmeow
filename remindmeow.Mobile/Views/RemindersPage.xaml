@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:remindmeow.Mobile.ViewModels"
+             xmlns:m="clr-namespace:remindmeow.core.Models;assembly=remindmeow.Core"
+             x:Class="remindmeow.Mobile.Views.RemindersPage"
+             x:DataType="vm:RemindersViewModel">
+    <Grid RowDefinitions="Auto,*">
+        <HorizontalStackLayout Grid.Row="0" Padding="10">
+            <Entry Placeholder="New reminder question..."
+                   HorizontalOptions="FillAndExpand"/>
+            <Button Text="Add"
+                    Command="{Binding AddReminderCommand}"/>
+        </HorizontalStackLayout>
+        
+        <RefreshView Grid.Row="1"
+                     Command="{Binding LoadRemindersCommand}"
+                     IsRefreshing="{Binding IsLoading}">
+            <CollectionView ItemsSource="{Binding Reminders}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="m:Reminder">
+                        <SwipeView>
+                            <SwipeView.RightItems>
+                                <SwipeItems>
+                                    <SwipeItem Text="Delete"
+                                              BackgroundColor="Red"
+                                              Command="{Binding Source={RelativeSource AncestorType={x:Type vm:RemindersViewModel}}, Path=DeleteReminderCommand}"
+                                              CommandParameter="{Binding Id}"/>
+                                </SwipeItems>
+                            </SwipeView.RightItems>
+                            <Grid Padding="10">
+                                <Label Text="{Binding Question}"
+                                       VerticalOptions="Center"/>
+                            </Grid>
+                        </SwipeView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </RefreshView>
+    </Grid>
+</ContentPage>
