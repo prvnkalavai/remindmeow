@@ -666,7 +666,7 @@ public final class R {
 		public static final int unchecked = 0x7f0801f6;
 		public static final int uniform = 0x7f0801f7;
 		public static final int up = 0x7f0801f9;
-		public static final int wrap_content = 0x7f080209;
+		public static final int wrap_content = 0x7f08020c;
 	}
 	public static final class integer {
 		public static final int abc_config_activityDefaultDur = 0x7f090000;
@@ -712,10 +712,10 @@ public final class R {
 		public static final int abc_search_view = 0x7f0b0019;
 		public static final int abc_select_dialog_material = 0x7f0b001a;
 		public static final int abc_tooltip = 0x7f0b001b;
-		public static final int select_dialog_item_material = 0x7f0b006b;
-		public static final int select_dialog_multichoice_material = 0x7f0b006c;
-		public static final int select_dialog_singlechoice_material = 0x7f0b006d;
-		public static final int support_simple_spinner_dropdown_item = 0x7f0b006f;
+		public static final int select_dialog_item_material = 0x7f0b006c;
+		public static final int select_dialog_multichoice_material = 0x7f0b006d;
+		public static final int select_dialog_singlechoice_material = 0x7f0b006e;
+		public static final int support_simple_spinner_dropdown_item = 0x7f0b0070;
 	}
 	public static final class string {
 		public static final int abc_action_bar_home_description = 0x7f0f0000;

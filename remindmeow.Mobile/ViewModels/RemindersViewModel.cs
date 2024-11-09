@@ -4,8 +4,8 @@ using System.Threading.Tasks;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using remindmeow.core.Models;
-//using remindmeow.Core.Interfaces;
-//using remindmeow.Core.Models;
+using remindmeow.Mobile.Views;
+using Microsoft.Maui.Controls;
 
 namespace remindmeow.Mobile.ViewModels
 {
@@ -45,6 +45,15 @@ namespace remindmeow.Mobile.ViewModels
         }
 
         [RelayCommand]
+        private async Task NavigateToDetailsAsync(Reminder reminder)
+        {
+            if (reminder != null)
+            {
+                await Shell.Current.GoToAsync($"{nameof(ReminderDetailsPage)}?id={reminder.Id}");
+            }
+        }
+
+        [RelayCommand]
         private async Task AddReminderAsync(string question)
         {
             var reminder = new Reminder
@@ -57,6 +66,29 @@ namespace remindmeow.Mobile.ViewModels
             if (result != null)
             {
                 Reminders.Add(result);
+            }
+        }
+
+        [RelayCommand]
+        private async Task DeleteReminderAsync(string id)
+        {
+            if (await _remindersService.DeleteReminderAsync(id))
+            {
+                var reminderToRemove = Reminders.FirstOrDefault(r => r.Id == id);
+                if (reminderToRemove != null)
+                    Reminders.Remove(reminderToRemove);
+            }
+        }
+
+        [RelayCommand]
+        private async Task UpdateReminderAsync(Reminder reminder)
+        {
+            var updated = await _remindersService.UpdateReminderAsync(reminder.Id, reminder);
+            if (updated != null)
+            {
+                var index = Reminders.IndexOf(Reminders.FirstOrDefault(r => r.Id == reminder.Id));
+                if (index != -1)
+                    Reminders[index] = updated;
             }
         }
     }

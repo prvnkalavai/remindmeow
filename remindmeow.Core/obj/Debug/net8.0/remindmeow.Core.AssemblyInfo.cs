@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("remindmeow.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f099d533231983a7967a8cfedd358210ec30781")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+680b1b2a26585b7179ee8a5903357c2b1e1aaca6")]
 [assembly: System.Reflection.AssemblyProductAttribute("remindmeow.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("remindmeow.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

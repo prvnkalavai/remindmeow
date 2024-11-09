@@ -3,19 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remindmeow.Mobile", "remindmeow.Mobile\remindmeow.Mobile.csproj", "{81B16221-7633-4C29-BE65-FCF83E99B911}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "remindmeow.Mobile", "remindmeow.Mobile\remindmeow.Mobile.csproj", "{81B16221-7633-4C29-BE65-FCF83E99B911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remindmeow.Core", "remindmeow.Core\remindmeow.Core.csproj", "{8E5444EC-4E57-4417-947B-7E6FFBA45F9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "remindmeow.Core", "remindmeow.Core\remindmeow.Core.csproj", "{8E5444EC-4E57-4417-947B-7E6FFBA45F9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remindmeow.Infrastructure", "remindmeow.Infrastructure\remindmeow.Infrastructure.csproj", "{FD384A10-A310-4333-967F-4B9C740D778B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "remindmeow.Infrastructure", "remindmeow.Infrastructure\remindmeow.Infrastructure.csproj", "{FD384A10-A310-4333-967F-4B9C740D778B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remindmeow.Tests", "remindmeow.Tests\remindmeow.Tests.csproj", "{6AFAE39B-BC26-4FEE-B1BD-7DFB1363402B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{81B16221-7633-4C29-BE65-FCF83E99B911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +29,12 @@ Global
 		{FD384A10-A310-4333-967F-4B9C740D778B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD384A10-A310-4333-967F-4B9C740D778B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD384A10-A310-4333-967F-4B9C740D778B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFAE39B-BC26-4FEE-B1BD-7DFB1363402B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFAE39B-BC26-4FEE-B1BD-7DFB1363402B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFAE39B-BC26-4FEE-B1BD-7DFB1363402B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFAE39B-BC26-4FEE-B1BD-7DFB1363402B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

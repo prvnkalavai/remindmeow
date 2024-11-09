@@ -8,10 +8,12 @@ animation\nav_default_pop_enter_anim;animation\nav_default_pop_enter_anim
 animation\nav_default_pop_exit_anim;animation\nav_default_pop_exit_anim
 drawable\maui_splash;drawable\maui_splash
 drawable\maui_splash_image;drawable\maui_splash_image
+drawable\widget_background;drawable\widget_background
 layout\drawer_layout;layout\drawer_layout
 layout\flyoutcontent;compatibility\Android\Resources\layout\flyoutcontent
 layout\fragment_backstack;layout\fragment_backstack
 layout\navigationlayout;layout\navigationlayout
+layout\reminder_widget;layout\reminder_widget
 layout\shellcontent;compatibility\Android\Resources\layout\shellcontent
 layout\tabbar;android\Resources\layout\Tabbar
 layout\toolbar;android\Resources\layout\Toolbar
@@ -21,4 +23,5 @@ values\colors;values\colors
 values\strings;values\strings
 values\styles;android\Resources\values\styles
 xml\microsoft_maui_essentials_fileprovider_file_paths;resources\xml\microsoft_maui_essentials_fileprovider_file_paths
+xml\reminder_widget_info;xml\reminder_widget_info
 xml\xamarin_essentials_fileprovider_file_paths;xml\xamarin_essentials_fileprovider_file_paths

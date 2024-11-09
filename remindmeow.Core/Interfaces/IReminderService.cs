@@ -1,3 +1,4 @@
+// remindmeow.core/Interfaces/IReminderService.cs
 using remindmeow.core.Models;
 
 public interface IRemindersService
@@ -8,4 +9,5 @@ public interface IRemindersService
     Task<Reminder> UpdateReminderAsync(string id, Reminder reminder);
     Task<bool> DeleteReminderAsync(string id);
     Task<IEnumerable<Reminder>> GetDueRemindersAsync();
+    DateTime? CalculateNextDueDate(Reminder reminder, DateTime? baseDate = null);
 }

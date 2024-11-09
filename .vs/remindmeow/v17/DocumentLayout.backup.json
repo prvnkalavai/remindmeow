@@ -3,76 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\prave\\Repos\\remindmeow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\viewmodels\\reminderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\viewmodels\\reminderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\platforms\\android\\resources\\layout\\reminder_widget.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\platforms\\android\\resources\\layout\\reminder_widget.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\viewmodels\\remindersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\viewmodels\\remindersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\views\\reminderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\views\\reminderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E5444EC-4E57-4417-947B-7E6FFBA45F9D}|remindmeow.Core\\remindmeow.Core.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.core\\models\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5444EC-4E57-4417-947B-7E6FFBA45F9D}|remindmeow.Core\\remindmeow.Core.csproj|solutionrelative:remindmeow.core\\models\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\views\\reminderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\views\\reminderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E5444EC-4E57-4417-947B-7E6FFBA45F9D}|remindmeow.Core\\remindmeow.Core.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.core\\interfaces\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5444EC-4E57-4417-947B-7E6FFBA45F9D}|remindmeow.Core\\remindmeow.Core.csproj|solutionrelative:remindmeow.core\\interfaces\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD384A10-A310-4333-967F-4B9C740D778B}|remindmeow.Infrastructure\\remindmeow.Infrastructure.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.infrastructure\\data\\localstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD384A10-A310-4333-967F-4B9C740D778B}|remindmeow.Infrastructure\\remindmeow.Infrastructure.csproj|solutionrelative:remindmeow.infrastructure\\data\\localstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E5444EC-4E57-4417-947B-7E6FFBA45F9D}|remindmeow.Core\\remindmeow.Core.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.core\\interfaces\\ilocalstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5444EC-4E57-4417-947B-7E6FFBA45F9D}|remindmeow.Core\\remindmeow.Core.csproj|solutionrelative:remindmeow.core\\interfaces\\ilocalstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\remindmeow.mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\remindmeow.mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|c:\\users\\prave\\repos\\remindmeow\\remindmeow.mobile\\platforms\\android\\reminderwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B16221-7633-4C29-BE65-FCF83E99B911}|remindmeow.Mobile\\remindmeow.Mobile.csproj|solutionrelative:remindmeow.mobile\\platforms\\android\\reminderwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,226 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\MainPage.xaml.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\MainPage.xaml.cs",
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "remindmeow.Mobile\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "remindmeow.Mobile\\Platforms\\Android\\AndroidManifest.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T21:32:26.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\AppShell.xaml.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T21:32:21.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\MainPage.xaml",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\MainPage.xaml",
-              "RelativeToolTip": "remindmeow.Mobile\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-08T21:32:16.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\AppShell.xaml",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\AppShell.xaml",
-              "RelativeToolTip": "remindmeow.Mobile\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-08T21:32:14.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RemindersPage.xaml",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Views\\RemindersPage.xaml",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\Views\\RemindersPage.xaml",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Views\\RemindersPage.xaml",
-              "RelativeToolTip": "remindmeow.Mobile\\Views\\RemindersPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-08T20:43:34.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDelegate.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T20:36:25.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDelegate.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\iOS\\AppDelegate.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\Platforms\\iOS\\AppDelegate.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\iOS\\AppDelegate.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\Platforms\\iOS\\AppDelegate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T20:36:10.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\App.xaml.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\App.xaml.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T20:36:05.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainApplication.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T20:35:51.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RemindersPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Views\\RemindersPage.xaml.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\Views\\RemindersPage.xaml.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Views\\RemindersPage.xaml.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\Views\\RemindersPage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T20:35:14.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Reminder.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Core\\Models\\Reminder.cs",
-              "RelativeDocumentMoniker": "remindmeow.Core\\Models\\Reminder.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Core\\Models\\Reminder.cs",
-              "RelativeToolTip": "remindmeow.Core\\Models\\Reminder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T20:15:19.361Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-09T09:16:23.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\MauiProgram.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Title": "ReminderDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\ViewModels\\ReminderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "remindmeow.Mobile\\ViewModels\\ReminderDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\ViewModels\\ReminderDetailsViewModel.cs",
+              "RelativeToolTip": "remindmeow.Mobile\\ViewModels\\ReminderDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T19:23:43.37Z",
+              "WhenOpened": "2024-11-09T09:03:33.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ILocalStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Core\\Interfaces\\ILocalStorageService.cs",
-              "RelativeDocumentMoniker": "remindmeow.Core\\Interfaces\\ILocalStorageService.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Core\\Interfaces\\ILocalStorageService.cs",
-              "RelativeToolTip": "remindmeow.Core\\Interfaces\\ILocalStorageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T19:30:39.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IReminderService.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Core\\Interfaces\\IReminderService.cs",
-              "RelativeDocumentMoniker": "remindmeow.Core\\Interfaces\\IReminderService.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Core\\Interfaces\\IReminderService.cs",
-              "RelativeToolTip": "remindmeow.Core\\Interfaces\\IReminderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T19:26:27.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RemindersViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\ViewModels\\RemindersViewModel.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\ViewModels\\RemindersViewModel.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\ViewModels\\RemindersViewModel.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\ViewModels\\RemindersViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T19:17:51.917Z",
+              "DocumentIndex": 2,
+              "Title": "reminder_widget.xml",
+              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Android\\Resources\\Layout\\reminder_widget.xml",
+              "RelativeDocumentMoniker": "remindmeow.Mobile\\Platforms\\Android\\Resources\\Layout\\reminder_widget.xml",
+              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Android\\Resources\\Layout\\reminder_widget.xml",
+              "RelativeToolTip": "remindmeow.Mobile\\Platforms\\Android\\Resources\\Layout\\reminder_widget.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-09T09:02:51.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Windows\\App.xaml.cs",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\Platforms\\Windows\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Windows\\App.xaml.cs",
-              "RelativeToolTip": "remindmeow.Mobile\\Platforms\\Windows\\App.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBYAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ReminderWidget.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Android\\ReminderWidget.cs",
+              "RelativeDocumentMoniker": "remindmeow.Mobile\\Platforms\\Android\\ReminderWidget.cs",
+              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\Platforms\\Android\\ReminderWidget.cs",
+              "RelativeToolTip": "remindmeow.Mobile\\Platforms\\Android\\ReminderWidget.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T20:36:31.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "remindmeow.Mobile.csproj",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\remindmeow.Mobile.csproj",
-              "RelativeDocumentMoniker": "remindmeow.Mobile\\remindmeow.Mobile.csproj",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Mobile\\remindmeow.Mobile.csproj",
-              "RelativeToolTip": "remindmeow.Mobile\\remindmeow.Mobile.csproj",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-08T19:18:06.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LocalStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Infrastructure\\Data\\LocalStorageService.cs",
-              "RelativeDocumentMoniker": "remindmeow.Infrastructure\\Data\\LocalStorageService.cs",
-              "ToolTip": "C:\\Users\\prave\\Repos\\remindmeow\\remindmeow.Infrastructure\\Data\\LocalStorageService.cs",
-              "RelativeToolTip": "remindmeow.Infrastructure\\Data\\LocalStorageService.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T19:17:43.655Z"
+              "WhenOpened": "2024-11-09T09:02:18.649Z",
+              "EditorCaption": ""
             }
           ]
         }

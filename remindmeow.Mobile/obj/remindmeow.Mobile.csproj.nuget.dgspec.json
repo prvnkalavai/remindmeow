@@ -125,6 +125,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[8.0.93, )"
+            },
             "SQLitePCLRaw.bundle_green": {
               "target": "Package",
               "version": "[2.1.10, )"
@@ -250,7 +262,11 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.2, )"
+              "version": "[8.3.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -258,7 +274,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.93, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
@@ -301,7 +317,11 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.2, )"
+              "version": "[8.3.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -309,7 +329,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.93, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
@@ -352,7 +372,11 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.2, )"
+              "version": "[8.3.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -360,7 +384,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.93, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
@@ -404,7 +428,11 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.2, )"
+              "version": "[8.3.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -412,7 +440,7 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.93, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",

@@ -4,6 +4,7 @@ using remindmeow.Infrastructure.Data;
 using remindmeow.Infrastructure.Services;
 using remindmeow.Mobile.Views;
 using remindmeow.Mobile.ViewModels;
+using remindmeow.Core.Interfaces;
 
 namespace remindmeow.Mobile
 {
@@ -23,10 +24,13 @@ namespace remindmeow.Mobile
             // Register services
             builder.Services.AddSingleton<ILocalStorageService, LocalStorageService>();
             builder.Services.AddSingleton<IRemindersService, RemindersService>();
-            
+            builder.Services.AddSingleton<IToastService, ToastService>();
             // Register pages and view models
             builder.Services.AddTransient<RemindersPage>();
             builder.Services.AddTransient<RemindersViewModel>();
+            builder.Services.AddTransient<ReminderDetailsPage>();
+            builder.Services.AddTransient<ReminderDetailsViewModel>();
+            
 
             return builder.Build();
         }

@@ -10,8 +10,6 @@ namespace remindmeow.Mobile
 
             // Register routes for navigation
             Routing.RegisterRoute(nameof(RemindersPage), typeof(RemindersPage));
-        }
-
-        
+        }        
     }
 }

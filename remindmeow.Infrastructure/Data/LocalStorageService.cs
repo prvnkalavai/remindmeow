@@ -1,8 +1,8 @@
 // remindmeow.Infrastructure/Data/LocalStorageService.cs
 using SQLite;
 using remindmeow.core.Interfaces;
-using Xamarin.Essentials;
 using remindmeow.core.Models;
+using remindmeow.Core.Exceptions;
 
 namespace remindmeow.Infrastructure.Data
 {
@@ -42,20 +42,43 @@ namespace remindmeow.Infrastructure.Data
         public async Task<int> SaveAsync(Reminder reminder)
         {
             await InitializeAsync();
-            
-            if (reminder.Id == null)
+
+            ValidateReminder(reminder);
+
+            if (string.IsNullOrEmpty(reminder.Id))
             {
                 reminder.Id = Guid.NewGuid().ToString();
             }
 
             reminder.LastModifiedAt = DateTime.UtcNow;
 
-            if (await GetByIdAsync(reminder.Id) == null)
+            try
             {
-                return await _database.InsertAsync(reminder);
+                if (await GetByIdAsync(reminder.Id) == null)
+                {
+                    return await _database.InsertAsync(reminder);
+                }
+                return await _database.UpdateAsync(reminder);
             }
-            
-            return await _database.UpdateAsync(reminder);
+            catch (SQLiteException ex)
+            {
+                throw new InvalidOperationException("Failed to save reminder", ex);
+            }
+        }
+
+        private void ValidateReminder(Reminder reminder)
+        {
+            if (string.IsNullOrEmpty(reminder.Question))
+                throw new ReminderValidationException("Question is required");
+
+            if (reminder.Question.Length > 500)
+                throw new ReminderValidationException("Question must not exceed 500 characters");
+
+            if (string.IsNullOrEmpty(reminder.UserId))
+                throw new ReminderValidationException("UserId is required");
+
+            if (reminder.NextDueDate.HasValue && reminder.NextDueDate.Value < DateTime.UtcNow.AddYears(-1))
+                throw new ReminderValidationException("Next due date cannot be more than 1 year in the past");
         }
 
         public async Task<int> DeleteAsync(string id)
@@ -63,7 +86,6 @@ namespace remindmeow.Infrastructure.Data
             await InitializeAsync();
             return await _database.DeleteAsync<Reminder>(id);
         }
-
         public async Task<IEnumerable<Reminder>> GetActiveRemindersAsync()
         {
             await InitializeAsync();
